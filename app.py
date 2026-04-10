@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 # # ── Config ────────────────────────────────────────────────────────────────────
-# API_KEY        = "AIzaSyCbtijgAii5RBCQ6fmWjucX6BR0zFu_CtE"
+# API_KEY        = "demo API key"
 # MODEL_NAME     = "gemini-3.1-flash-lite-preview"
 # KNOWLEDGE_FILE = "knowledgebase.txt"
 
